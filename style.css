@@ -1,0 +1,28 @@
+h1 {
+    font-size: 200%;
+    font-family: Arial;
+    color: #1b287c;
+}
+li {
+    font-size: 110%;
+    font-family: Arial;
+    color:#01051b;
+}
+p.c {
+    font-size: 150%;
+    font-family: Corbel;
+    color: #1b287c;
+}
+p {
+    font-size: 130%;
+    font-family: corbel;
+    color: #000000;
+}
+footer {
+    font-size: 100%;
+    font-family: Arial;
+    color: #000000;
+}
+html {
+    background:#edefff;
+}
